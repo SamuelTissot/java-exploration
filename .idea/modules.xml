@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrencyPatterns/ConcurrencyPatterns.iml" filepath="$PROJECT_DIR$/ConcurrencyPatterns/ConcurrencyPatterns.iml" />
+    </modules>
+  </component>
+</project>
